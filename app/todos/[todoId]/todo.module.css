@@ -1,0 +1,24 @@
+.container{
+background-color:rgba(1, 189, 227, 0.363);
+color:#000;
+border-radius:30px;
+box-shadow: 10px 5px 5px rgba(1, 3, 15, 0.16);
+padding:2rem;
+line-height: 2;
+}
+.user{
+    display:flex;
+    justify-content: flex-end;
+}
+.borderBottom{
+    border-bottom: 2px solid #000;
+}
+.todoList{
+    display:flex;
+    justify-content: space-around;
+}
+.todoListChildren{
+ flex:1;
+  
+}
+
